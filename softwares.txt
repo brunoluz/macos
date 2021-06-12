@@ -1,0 +1,1 @@
+Macs fan control (https://crystalidea.com/macs-fan-control): Important to keep coller at high rpm to lower temperature.
