@@ -1,8 +1,10 @@
 [System Settings]
-Trackpad -> Tap to Click [ON]
+Trackpad -> Tap to Click [Enable]
 
 [TextEdit]
-
+Settings -> Format -> Plain text
+Settings -> Options -> Check spelling as you type [Disable]
+Settings -> Options -> Correct spelling automatically [Disable]
 
 [Rectangles]
 Preferences -> Maximize -> Option Command Return
