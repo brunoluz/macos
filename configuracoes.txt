@@ -19,7 +19,10 @@ Settings -> Profiles -> Color & Effects -> Opacity: 100%
 Settings -> Profiles -> Color & Effects -> Grayscale Slider -> Brightness: 11%
 
 [Outlook]
-Settings (hamburguer menu) -> Message list -> Show group headers [Disable]
-Settings (hamburguer menu) -> Conversations -> Show email grouped by conversation [Disable]
-Settings (hamburguer menu) -> Download external images: Automatically
-Settings (hamburguer menu) -> Mark mail as read -> When viewed in the reading pane for these secconds: 0
+Settings -> Reading -> Message list -> Show group headers [Disable]
+Settings -> Reading -> Conversations -> Show email grouped by conversation [Disable]
+Settings -> Reading -> Download external images: Automatically
+Settings -> Reading -> Mark mail as read -> When viewed in the reading pane for these secconds: 0
+
+[Finder]
+Settings -> New Finder windows show: [Home directory]
