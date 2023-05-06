@@ -12,3 +12,4 @@ Preferences -> Maximize -> Option Command Return
 [Terminal]
 Preferences -> Profiles -> Pro -> Default
 Preferences -> Profiles -> Color & Effects -> Opacity: 100%
+Preferences -> Profiles -> Color & Effects -> Grayscale Slider -> Brightness: 11%
