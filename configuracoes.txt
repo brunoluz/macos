@@ -1,0 +1,4 @@
+[System Settings]
+
+[TextEdit]
+Trackpad -> Tap to Click [ON]
