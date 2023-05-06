@@ -1,4 +1,5 @@
 [System Settings]
+Trackpad -> Tap to Click [ON]
 
 [TextEdit]
-Trackpad -> Tap to Click [ON]
+
