@@ -3,3 +3,6 @@ Trackpad -> Tap to Click [ON]
 
 [TextEdit]
 
+
+[Rectangles]
+Preferences -> Maximize -> Option Command Return
