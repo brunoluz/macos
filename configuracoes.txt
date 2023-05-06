@@ -17,3 +17,7 @@ Settings -> Profiles -> Pro -> Default
 Settings -> Profiles -> Font: Monaco 13
 Settings -> Profiles -> Color & Effects -> Opacity: 100%
 Settings -> Profiles -> Color & Effects -> Grayscale Slider -> Brightness: 11%
+
+[Outlook]
+Settings (hamburguer menu) -> Message list -> Show group headers [Disable]
+Settings (hamburguer menu) -> Conversations -> Show email grouped by conversation [Disable]
