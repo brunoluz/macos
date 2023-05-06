@@ -6,3 +6,7 @@ Trackpad -> Tap to Click [ON]
 
 [Rectangles]
 Preferences -> Maximize -> Option Command Return
+
+[Terminal]
+Preferences -> Profiles -> Pro -> Default
+Preferences -> Profiles -> Color & Effects -> Opacity: 100%
