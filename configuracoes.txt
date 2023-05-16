@@ -26,3 +26,6 @@ Settings -> Reading -> Mark mail as read -> When viewed in the reading pane for 
 
 [Finder]
 Settings -> New Finder windows show: [Home directory]
+
+[Conda]
+conda config --set auto_activate_base false
