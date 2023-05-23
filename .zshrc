@@ -8,6 +8,6 @@ parse_git_branch() {
 }
 
 setopt PROMPT_SUBST
-PROMPT='%F{green}%n%f:%F{cyan}%c%f%F{yellow}$(parse_git_branch)%f%F{white}$%f '
+PROMPT='%F{green}%B%n%b%f:%F{cyan}%B%c%b%f%F{yellow}$(parse_git_branch)%f%F{white}$%f '
 
 
