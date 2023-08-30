@@ -8,6 +8,8 @@ Settings -> Options -> Correct spelling automatically [Disable]
 Settings -> Options -> Smart copy/paste [Disable]
 Settings -> Options -> Smart quotes [Disable]
 Settings -> Options -> Smart dashes [Disable]
+(terminal)
+defaults write com.apple.TextEdit NSShowAppCentricOpenPanelInsteadOfUntitledFile -bool false
 
 [Rectangles]
 Preferences -> Maximize -> Option Command Return
