@@ -1,5 +1,6 @@
 [System Settings]
 Trackpad -> Tap to Click [Enable]
+Displays -> Display Brightness -> Automatically Adjust Brightness [Disable]
 
 [TextEdit]
 Settings -> Format -> Plain text
